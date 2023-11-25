@@ -6,7 +6,7 @@ This project contains a Jupyter Notebook implementing a simple chatbot in Python
 
 To get started with the chatbot, follow these steps:
 
-1. Open the [Chatbot.ipynb](Chatbot.ipynb) notebook in Google Colab.
+1. Open the [zigi.ipynb](zigi.ipynb) notebook in Google Colab.
 
 2. Run the cells in the notebook to execute the code.
 
